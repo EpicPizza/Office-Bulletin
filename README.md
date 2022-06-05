@@ -1,4 +1,4 @@
-# OfficeBulletin
+# Office Bulletin
 
 This project lets my dad set a message and color, for example saying he is in a meeting so we don't interrupt him. There is one esp32 at his desk with some buttons that send preset message to the esp32 outside the office with the display. He can also connect directly to the esp32 with the computer and set custom color or messages.
 
